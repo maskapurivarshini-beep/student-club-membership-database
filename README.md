@@ -1,2 +1,22 @@
-# student-club-membership-database
-This project is a relational database system developed using Microsoft Access to manage student clubs, memberships, activities, and participation records. The system supports normalized schema design (up to 3NF), SQL-based analytical queries, structured reporting, and automated query execution using macros.
+student-club-membership-database/
+│
+├── database/
+│   └── StudentClubDB.accdb
+│
+├── erd/
+│   └── ERD.png
+│
+├── queries/
+│   ├── active_members.sql
+│   ├── club_popularity.sql
+│   └── activities_with_club.sql
+│
+├── screenshots/
+│   ├── tables.png
+│   ├── relationships.png
+│   ├── student_form.png
+│   ├── club_form.png
+│   ├── report_membership.png
+│   ├── macro_design.png
+│
+└── README.md
